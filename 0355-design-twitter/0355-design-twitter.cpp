@@ -1,15 +1,11 @@
 typedef pair<int,int> pi;
-
 class Twitter {
-    
     unordered_map<int, unordered_set<int>> following;
     unordered_map<int, vector<pi>> tweets;
-    
     int timer;
     const int k = 10;
 
 public:
-    
     Twitter() {
         timer = 0;
     }
@@ -17,7 +13,6 @@ public:
     void postTweet(int userId, int tweetId) {
         tweets[userId].push_back({timer++, tweetId});
     }
-    
     vector<int> getNewsFeed(int userId) {
         
         priority_queue<pi, vector<pi>, greater<pi>> pq;
@@ -32,7 +27,6 @@ public:
             if(pq.size() > k)
                 pq.pop();
         }
-        
         // Followees' tweets
         for(int followee : following[userId]) {
             
