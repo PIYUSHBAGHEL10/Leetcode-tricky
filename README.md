@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
