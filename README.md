@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
+| [1405-longest-happy-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1405-longest-happy-string) |
 ## Array
 |  |
 | ------- |
@@ -60,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
+| [1405-longest-happy-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1405-longest-happy-string) |
+## Greedy
+|  |
+| ------- |
+| [1405-longest-happy-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1405-longest-happy-string) |
 <!---LeetCode Topics End-->
