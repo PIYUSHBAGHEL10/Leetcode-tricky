@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
+| [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 ## Array
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
+| [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 ## Matrix
 |  |
 | ------- |
@@ -39,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0024-swap-nodes-in-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
