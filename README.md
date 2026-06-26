@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1834-single-threaded-cpu) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1834-single-threaded-cpu) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0202-happy-number) |
 ## Counting
