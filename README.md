@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0024-swap-nodes-in-pairs) |
+| [0138-copy-list-with-random-pointer](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
