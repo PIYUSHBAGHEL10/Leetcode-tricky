@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0258-add-digits) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 ## Prefix Sum
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0191-number-of-1-bits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
