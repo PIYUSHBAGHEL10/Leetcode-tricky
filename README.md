@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 ## Math
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0242-valid-anagram) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1834-single-threaded-cpu) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1405-longest-happy-string) |
