@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0101-symmetric-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
