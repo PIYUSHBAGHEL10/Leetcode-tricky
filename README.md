@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 ## Math
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1834-single-threaded-cpu) |
 ## Matrix
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1834-single-threaded-cpu) |
