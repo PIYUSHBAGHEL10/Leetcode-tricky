@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
+| [0434-number-of-segments-in-a-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0434-number-of-segments-in-a-string) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1405-longest-happy-string) |
 ## Greedy
