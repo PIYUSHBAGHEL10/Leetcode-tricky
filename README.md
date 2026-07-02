@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0187-repeated-dna-sequences) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
