@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0202-happy-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0110-balanced-binary-tree) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0110-balanced-binary-tree) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0096-unique-binary-search-trees) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0441-arranging-coins) |
