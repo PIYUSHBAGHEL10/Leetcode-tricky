@@ -229,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0262-trips-and-users) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
