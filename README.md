@@ -233,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1683-invalid-tweets) |
 | [3554-find-category-recommendation-pairs](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/3554-find-category-recommendation-pairs) |
+| [3564-seasonal-sales-analysis](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/3564-seasonal-sales-analysis) |
 <!---LeetCode Topics End-->
