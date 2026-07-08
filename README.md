@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0187-repeated-dna-sequences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0169-majority-element) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0145-binary-tree-postorder-traversal) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0145-binary-tree-postorder-traversal) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0191-number-of-1-bits) |
 ## Number Theory
