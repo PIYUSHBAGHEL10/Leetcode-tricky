@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0168-excel-sheet-column-title) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3570-find-books-with-no-available-copies](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/3570-find-books-with-no-available-copies) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 | [3611-find-overbooked-employees](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/3611-find-overbooked-employees) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
