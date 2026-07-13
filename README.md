@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0134-gas-station) |
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0171-excel-sheet-column-number) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0101-symmetric-tree) |
