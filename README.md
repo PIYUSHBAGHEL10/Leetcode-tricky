@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0202-happy-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0328-odd-even-linked-list) |
 ## Recursion
@@ -264,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
