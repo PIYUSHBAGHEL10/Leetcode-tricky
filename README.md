@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0797-all-paths-from-source-to-target) |
 ## Linked List
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0226-invert-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0146-lru-cache) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
