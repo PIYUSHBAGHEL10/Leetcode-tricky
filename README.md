@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0171-excel-sheet-column-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0338-counting-bits) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0797-all-paths-from-source-to-target) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
