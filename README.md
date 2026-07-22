@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0396-rotate-function) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0695-max-area-of-island) |
 ## Backtracking
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0695-max-area-of-island) |
@@ -300,5 +304,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
