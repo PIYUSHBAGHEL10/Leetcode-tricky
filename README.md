@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0463-island-perimeter) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1834-single-threaded-cpu) |
 ## Matrix
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
+| [0463-island-perimeter](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0463-island-perimeter) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
+| [0463-island-perimeter](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0226-invert-binary-tree) |
+| [0463-island-perimeter](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
