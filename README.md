@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0797-all-paths-from-source-to-target) |
