@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0274-h-index) |
 | [0396-rotate-function](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0695-max-area-of-island) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
