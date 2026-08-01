@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0908-smallest-range-i) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1834-single-threaded-cpu) |
+| [2923-find-champion-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/2923-find-champion-i) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0695-max-area-of-island) |
+| [2923-find-champion-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/2923-find-champion-i) |
 ## Backtracking
 |  |
 | ------- |
