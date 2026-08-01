@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1148-article-views-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1517-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1683-invalid-tweets) |
