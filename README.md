@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
