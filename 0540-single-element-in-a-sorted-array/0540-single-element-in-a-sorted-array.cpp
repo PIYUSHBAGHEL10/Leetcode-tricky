@@ -6,7 +6,7 @@ public:
     while(strt<=end)
     {
         int loner=strt+1;
-        if(A[strt]==A[end]){
+        if(A.size()==1){
             return A[strt];
         }
         if( A[strt]==A[loner]){
