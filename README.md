@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0797-all-paths-from-source-to-target) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0191-number-of-1-bits) |
