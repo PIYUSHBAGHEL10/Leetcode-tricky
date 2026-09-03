@@ -9,9 +9,8 @@ public:
             return;
         }
 
-        if (target < 0) return;
-
         for (int i = idx; i < candidates.size(); i++) {
+            if(candidates[i]>target) continue;
             curr.push_back(candidates[i]);
             dfs(i, target - candidates[i], candidates); // reuse allowed
             curr.pop_back(); // backtrack
