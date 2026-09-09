@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0168-excel-sheet-column-title) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0092-reverse-linked-list-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0234-palindrome-linked-list) |
