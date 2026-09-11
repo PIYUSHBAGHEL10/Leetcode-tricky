@@ -25,10 +25,7 @@ public:
         for(int j=1 ; j<=n-k ; j++){
             end=end->next;
         }
-        int val=start->val;
-        start->val=end->val;
-        end->val=val;
-
+        swap(start->val , end->val);
 
         return head;
 
