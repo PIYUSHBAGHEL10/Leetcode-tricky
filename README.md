@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0445-add-two-numbers-ii) |
 | [0908-smallest-range-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0908-smallest-range-i) |
 ## Dynamic Programming
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0445-add-two-numbers-ii) |
 ## Tree
 |  |
 | ------- |
