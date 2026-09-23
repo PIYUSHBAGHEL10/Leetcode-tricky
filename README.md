@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0707-design-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0146-lru-cache) |
+| [0707-design-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
