@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0334-increasing-triplet-subsequence) |
 | [0396-rotate-function](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0334-increasing-triplet-subsequence) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1405-longest-happy-string) |
 ## Two Pointers
@@ -410,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0496-next-greater-element-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
