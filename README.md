@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0396-rotate-function](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0200-number-of-islands) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0463-island-perimeter](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0695-max-area-of-island) |
 | [2923-find-champion-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/2923-find-champion-i) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0238-product-of-array-except-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
 ## String
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0441-arranging-coins](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -421,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0334-increasing-triplet-subsequence) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
