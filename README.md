@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0496-next-greater-element-i) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 ## Math
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0704-binary-search) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
