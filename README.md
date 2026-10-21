@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0496-next-greater-element-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0334-increasing-triplet-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0701-insert-into-a-binary-search-tree) |
