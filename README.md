@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
+| [0367-valid-perfect-square](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0445-add-two-numbers-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0701-insert-into-a-binary-search-tree) |
