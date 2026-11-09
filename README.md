@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0492-construct-the-rectangle) |
+| [0598-range-addition-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0598-range-addition-ii) |
 | [0908-smallest-range-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0908-smallest-range-i) |
 | [3871-count-commas-in-range-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0540-single-element-in-a-sorted-array) |
+| [0598-range-addition-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0598-range-addition-ii) |
 | [0695-max-area-of-island](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0704-binary-search) |
 | [0908-smallest-range-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0908-smallest-range-i) |
