@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0496-next-greater-element-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0434-number-of-segments-in-a-string) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1405-longest-happy-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0767-reorganize-string) |
 ## Stack
 |  |
