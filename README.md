@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0704-binary-search) |
 | [0908-smallest-range-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/0908-smallest-range-i) |
 | [1094-car-pooling](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1094-car-pooling) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1834-single-threaded-cpu](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/1834-single-threaded-cpu) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2923-find-champion-i](https://github.com/PIYUSHBAGHEL10/Leetcode-tricky/tree/master/2923-find-champion-i) |
